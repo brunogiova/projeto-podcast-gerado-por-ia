@@ -24,7 +24,7 @@ Este projeto tem como objetivo principal automatizar a criação de podcasts uti
 Explore as principais ferramentas de IA que impulsionam este projeto, cada uma com um papel fundamental no fluxo de trabalho:
 
 -   **[ChatGPT](https://chat.openai.com/)**: Utilizado para a geração de roteiros e conteúdos textuais, garantindo a coesão e criatividade do podcast.
--   **[MidJourney](https://www.midjourney.com/app/)**: Empregado na criação de artes visuais e capas atrativas para o podcast, complementando o conteúdo de áudio.
+-   **[ChatGPT - Ferramenta de criação de imagens](https://chat.openai.com/)**: Empregado na criação de artes visuais e capas atrativas para o podcast, complementando o conteúdo de áudio.
 -   **[ElevenLabs](https://beta.elevenlabs.io/)**: Responsável pela síntese de áudios realistas a partir dos textos gerados, transformando o roteiro em uma experiência sonora de alta qualidade.
 
 ## ✨ Funcionalidades Principais
@@ -48,7 +48,7 @@ Para gerar seu próprio podcast de forma automatizada, siga os passos abaixo, ut
 
 -   🤖 1. **Roteiro (ChatGPT):** Consulte o arquivo `src/chatgpt.md` para as instruções e exemplos de prompts a serem utilizados no ChatGPT para gerar o roteiro do seu podcast.
 -   �� 2. **Áudio (ElevenLabs):** Com o roteiro gerado, utilize a plataforma ElevenLabs para sintetizar o áudio. O arquivo resultante será salvo no diretório `output/synthesized_audio.mp3`.
--   🤖 3. **Capa (MidJourney):** Para a arte da capa do seu podcast, utilize as orientações e exemplos de prompts encontrados no arquivo `src/midjourney.md` para criar sua imagem no MidJourney.
+-   🤖 3. **Capa (ChatGPT - GPT Image):** Para a arte da capa do seu podcast, utilize as orientações e exemplos de prompts encontrados no arquivo `src/gpt_image.md` para criar sua imagem na ferramenta de ciração de imagens do ChatGPT.
 
 ## 👨‍💻 Contribuidor(es) / Autor(es)
 
